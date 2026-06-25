@@ -1,0 +1,2 @@
+event_id,date_utc,stage,group,venue,home_team,away_team,home_abbr,away_abbr,home_goals,away_goals,scoreline_home,total_goals,ht_home_goals,ht_away_goals,halftime_score_home,halftime_result_home,full_result_home,ht_ft_home,source
+manual-001,2026-06-21T00:00:00Z,group-stage,Group X,Venue,Home,Away,HOM,AWY,1,1,1-1,2,0,0,0-0,平,平,平平,manual verified source

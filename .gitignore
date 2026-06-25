@@ -1,0 +1,6 @@
+*.zip
+_package/
+worldcup-predictor-live-skill/outputs/
+worldcup-predictor-live-skill/scripts/__pycache__/
+__pycache__/
+*.pyc
